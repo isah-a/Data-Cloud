@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Data-Cloud
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Computer Vision and Backend using python
+- 👋 Hi, I’m @Isah
+- 👀 My interests include Data Science|Machine Learning| Deep Learning| and Research
+- 🌱 I currently work as a Machine Learning Engineer where I research and build amazing products leveraging AI.
 - 💞️ I’m looking to collaborate on Computer Vision and other cool Machine Learning projects
-- 📫 How to reach me on my email: asshanowi@gmail.com
+- 📫 How to reach me on my email: isahabdul16@gmail.com
 
 <!---
 Data-Cloud/Data-Cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
